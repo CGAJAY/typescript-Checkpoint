@@ -1,0 +1,14 @@
+{
+	"name": "typescript-checkpoint",
+	"version": "1.0.0",
+	"description": "Typescript basics",
+	"main": "index.js",
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"author": "CGAJAY",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.6.1"
+	}
+}
